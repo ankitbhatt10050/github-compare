@@ -94,7 +94,7 @@ const Info=(props)=>{
                                         
                                     </div>
                                     <div style={{position:"relative",bottom:"28px"}}>
-                                        <Star data={info}/>
+                                        <Star data={info.data}/>
                                     </div>
 
                                     <div >
